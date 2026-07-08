@@ -1,3 +1,2 @@
 # odin-recipes
-This collection of recipes tests basic HTML skills such as images, links, lists and paragraphs.
-Now it includes css skills
+This collection of recipes includes basic HTML and CSS skills involving images, links, lists, colors and etc. The basic structure includes flex which expands what you can do with websites! 
